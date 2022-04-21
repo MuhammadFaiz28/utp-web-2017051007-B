@@ -1,2 +1,6 @@
 # utp-web-2017051007-B
 Nama : Muhammad Faiz
+NPM  : 2017051007
+Kelas : B
+
+UTP PRAKTIKUM PEMROGRAMAN WEB
